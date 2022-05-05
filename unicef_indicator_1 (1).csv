@@ -1,0 +1,221 @@
+region,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,GDP per capita (current US$),2019,507.1034319,Total,,USD,,,,Total
+Albania,AL,ALB,8,GDP per capita (current US$),2019,5353.244856,Total,,USD,,,,Total
+Algeria,DZ,DZA,12,GDP per capita (current US$),2019,3973.964072,Total,,USD,,,,Total
+American Samoa,AS,ASM,16,GDP per capita (current US$),2018,11466.69071,Total,,USD,,,,Total
+Andorra,AD,AND,20,GDP per capita (current US$),2019,40886.39116,Total,,USD,,,,Total
+Angola,AO,AGO,24,GDP per capita (current US$),2019,2790.726615,Total,,USD,,,,Total
+Antigua and Barbuda,AG,ATG,28,GDP per capita (current US$),2019,17112.82113,Total,,USD,,,,Total
+Argentina,AR,ARG,32,GDP per capita (current US$),2019,9912.281809,Total,,USD,,,,Total
+Armenia,AM,ARM,51,GDP per capita (current US$),2019,4622.733493,Total,,USD,,,,Total
+Aruba,AW,ABW,533,GDP per capita (current US$),2017,29007.693,Total,,USD,,,,Total
+Australia,AU,AUS,36,GDP per capita (current US$),2019,55057.2047,Total,,USD,,,,Total
+Austria,AT,AUT,40,GDP per capita (current US$),2019,50121.55421,Total,,USD,,,,Total
+Azerbaijan,AZ,AZE,31,GDP per capita (current US$),2019,4793.125559,Total,,USD,,,,Total
+Bahamas,BS,BHS,44,GDP per capita (current US$),2019,34863.7421,Total,,USD,,,,Total
+Bahrain,BH,BHR,48,GDP per capita (current US$),2019,23503.97713,Total,,USD,,,,Total
+Bangladesh,BD,BGD,50,GDP per capita (current US$),2019,1855.739824,Total,,USD,,,,Total
+Barbados,BB,BRB,52,GDP per capita (current US$),2019,18148.24493,Total,,USD,,,,Total
+Belarus,BY,BLR,112,GDP per capita (current US$),2019,6697.968615,Total,,USD,,,,Total
+Belgium,BE,BEL,56,GDP per capita (current US$),2019,46345.40329,Total,,USD,,,,Total
+Belize,BZ,BLZ,84,GDP per capita (current US$),2019,4815.163711,Total,,USD,,,,Total
+Benin,BJ,BEN,204,GDP per capita (current US$),2019,1219.432672,Total,,USD,,,,Total
+Bermuda,BM,BMU,60,GDP per capita (current US$),2019,116889.9527,Total,,USD,,,,Total
+Bhutan,BT,BTN,64,GDP per capita (current US$),2019,3316.175714,Total,,USD,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,GDP per capita (current US$),2019,3552.06876,Total,,USD,,,,Total
+Bolivia,BO,BOL,68,GDP per capita (current US$),2019,3552.06876,Total,,USD,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,GDP per capita (current US$),2019,6108.510696,Total,,USD,,,,Total
+Botswana,BW,BWA,72,GDP per capita (current US$),2019,7961.325181,Total,,USD,,,,Total
+Brazil,BR,BRA,76,GDP per capita (current US$),2019,8717.186278,Total,,USD,,,,Total
+Brunei Darussalam,BN,BRN,96,GDP per capita (current US$),2019,31086.75112,Total,,USD,,,,Total
+Brunei,BN,BRN,96,GDP per capita (current US$),2019,31086.75112,Total,,USD,,,,Total
+Bulgaria,BG,BGR,100,GDP per capita (current US$),2019,9828.148515,Total,,USD,,,,Total
+Burkina Faso,BF,BFA,854,GDP per capita (current US$),2019,786.8956313,Total,,USD,,,,Total
+Burundi,BI,BDI,108,GDP per capita (current US$),2019,261.2474725,Total,,USD,,,,Total
+Cape Verde,CV,CPV,132,GDP per capita (current US$),2019,3603.781793,Total,,USD,,,,Total
+Cambodia,KH,KHM,116,GDP per capita (current US$),2019,1643.121389,Total,,USD,,,,Total
+Cameroon,CM,CMR,120,GDP per capita (current US$),2019,1507.450206,Total,,USD,,,,Total
+Canada,CA,CAN,124,GDP per capita (current US$),2019,46189.66011,Total,,USD,,,,Total
+Cayman Islands,KY,CYM,136,GDP per capita (current US$),2018,85975.02474,Total,,USD,,,,Total
+Central African Republic,CF,CAF,140,GDP per capita (current US$),2019,467.9074406,Total,,USD,,,,Total
+Chad,TD,TCD,148,GDP per capita (current US$),2019,709.5403101,Total,,USD,,,,Total
+Chile,CL,CHL,152,GDP per capita (current US$),2019,14896.45387,Total,,USD,,,,Total
+China,CN,CHN,156,GDP per capita (current US$),2019,10216.63033,Total,,USD,,,,Total
+Hong Kong,HK,HKG,344,GDP per capita (current US$),2019,48713.47375,Total,,USD,,,,Total
+Macao,MO,MAC,446,GDP per capita (current US$),2019,84096.39631,Total,,USD,,,,Total
+Colombia,CO,COL,170,GDP per capita (current US$),2019,6428.676206,Total,,USD,,,,Total
+Comoros,KM,COM,174,GDP per capita (current US$),2019,1370.148207,Total,,USD,,,,Total
+Congo,CG,COG,178,GDP per capita (current US$),2019,2279.969131,Total,,USD,,,,Total
+Costa Rica,CR,CRI,188,GDP per capita (current US$),2019,12243.81143,Total,,USD,,,,Total
+Croatia,HR,HRV,191,GDP per capita (current US$),2019,14944.35622,Total,,USD,,,,Total
+Cuba,CU,CUB,192,GDP per capita (current US$),2018,8821.818891,Total,,USD,,,,Total
+Cyprus,CY,CYP,196,GDP per capita (current US$),2019,27858.371,Total,,USD,,,,Total
+Czech Republic,CZ,CZE,203,GDP per capita (current US$),2019,23489.83866,Total,,USD,,,,Total
+Côte d'Ivoire,CI,CIV,384,GDP per capita (current US$),2019,2276.333279,Total,,USD,,,,Total
+Ivory Coast,CI,CIV,384,GDP per capita (current US$),2019,2276.333279,Total,,USD,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,GDP per capita (current US$),2019,580.7168672,Total,,USD,,,,Total
+Denmark,DK,DNK,208,GDP per capita (current US$),2019,60213.09215,Total,,USD,,,,Total
+Djibouti,DJ,DJI,262,GDP per capita (current US$),2019,3414.92487,Total,,USD,,,,Total
+Dominica,DM,DMA,212,GDP per capita (current US$),2019,8110.568512,Total,,USD,,,,Total
+Dominican Republic,DO,DOM,214,GDP per capita (current US$),2019,8282.116359,Total,,USD,,,,Total
+Ecuador,EC,ECU,218,GDP per capita (current US$),2019,6183.823825,Total,,USD,,,,Total
+Egypt,EG,EGY,818,GDP per capita (current US$),2019,3019.205829,Total,,USD,,,,Total
+El Salvador,SV,SLV,222,GDP per capita (current US$),2019,4187.250031,Total,,USD,,,,Total
+Equatorial Guinea,GQ,GNQ,226,GDP per capita (current US$),2019,8131.923888,Total,,USD,,,,Total
+Eritrea,ER,ERI,232,GDP per capita (current US$),2011,642.5076591,Total,,USD,,,,Total
+Estonia,EE,EST,233,GDP per capita (current US$),2019,23717.79945,Total,,USD,,,,Total
+Swaziland,SZ,SWZ,748,GDP per capita (current US$),2019,3894.679807,Total,,USD,,,,Total
+Ethiopia,ET,ETH,231,GDP per capita (current US$),2019,855.7608623,Total,,USD,,,,Total
+Faroe Islands,FO,FRO,234,GDP per capita (current US$),2018,64269.70425,Total,,USD,,,,Total
+Fiji,FJ,FJI,242,GDP per capita (current US$),2019,6175.88872,Total,,USD,,,,Total
+Finland,FI,FIN,246,GDP per capita (current US$),2019,48771.3738,Total,,USD,,,,Total
+France,FR,FRA,250,GDP per capita (current US$),2019,40496.36403,Total,,USD,,,,Total
+French Polynesia,PF,PYF,258,GDP per capita (current US$),2000,14323.82082,Total,,USD,,,,Total
+Gabon,GA,GAB,266,GDP per capita (current US$),2019,7767.013404,Total,,USD,,,,Total
+Gambia,GM,GMB,270,GDP per capita (current US$),2019,777.8119321,Total,,USD,,,,Total
+Georgia,GE,GEO,268,GDP per capita (current US$),2019,4697.983648,Total,,USD,,,,Total
+Germany,DE,DEU,276,GDP per capita (current US$),2019,46467.5162,Total,,USD,,,,Total
+Ghana,GH,GHA,288,GDP per capita (current US$),2019,2202.115567,Total,,USD,,,,Total
+Greece,GR,GRC,300,GDP per capita (current US$),2019,19580.98833,Total,,USD,,,,Total
+Greenland,GL,GRL,304,GDP per capita (current US$),2018,54470.95639,Total,,USD,,,,Total
+Grenada,GD,GRD,308,GDP per capita (current US$),2019,10808.67212,Total,,USD,,,,Total
+Guam,GU,GUM,316,GDP per capita (current US$),2018,35712.56214,Total,,USD,,,,Total
+Guatemala,GT,GTM,320,GDP per capita (current US$),2019,4619.985258,Total,,USD,,,,Total
+Guinea,GN,GIN,324,GDP per capita (current US$),2019,962.8399086,Total,,USD,,,,Total
+Guinea-Bissau,GW,GNB,624,GDP per capita (current US$),2019,697.2949269,Total,,USD,,,,Total
+Guyana,GY,GUY,328,GDP per capita (current US$),2019,6609.586425,Total,,USD,,,,Total
+Haiti,HT,HTI,332,GDP per capita (current US$),2019,1272.490925,Total,,USD,,,,Total
+Honduras,HN,HND,340,GDP per capita (current US$),2019,2574.912191,Total,,USD,,,,Total
+Hungary,HU,HUN,348,GDP per capita (current US$),2019,16729.78037,Total,,USD,,,,Total
+Iceland,IS,ISL,352,GDP per capita (current US$),2019,67084.08371,Total,,USD,,,,Total
+India,IN,IND,356,GDP per capita (current US$),2019,2099.599048,Total,,USD,,,,Total
+Indonesia,ID,IDN,360,GDP per capita (current US$),2019,4135.569263,Total,,USD,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,GDP per capita (current US$),2018,5550.060957,Total,,USD,,,,Total
+Iraq,IQ,IRQ,368,GDP per capita (current US$),2019,5955.10901,Total,,USD,,,,Total
+Ireland,IE,IRL,372,GDP per capita (current US$),2019,78778.99477,Total,,USD,,,,Total
+Isle of Man,IM,IMN,833,GDP per capita (current US$),2018,89108.42814,Total,,USD,,,,Total
+Israel,IL,ISR,376,GDP per capita (current US$),2019,43588.71331,Total,,USD,,,,Total
+Italy,IT,ITA,380,GDP per capita (current US$),2019,33225.64849,Total,,USD,,,,Total
+Jamaica,JM,JAM,388,GDP per capita (current US$),2019,5582.263778,Total,,USD,,,,Total
+Japan,JP,JPN,392,GDP per capita (current US$),2019,40246.88013,Total,,USD,,,,Total
+Jordan,JO,JOR,400,GDP per capita (current US$),2019,4405.488412,Total,,USD,,,,Total
+Kazakhstan,KZ,KAZ,398,GDP per capita (current US$),2019,9812.526588,Total,,USD,,,,Total
+Kenya,KE,KEN,404,GDP per capita (current US$),2019,1816.546916,Total,,USD,,,,Total
+Kiribati,KI,KIR,296,GDP per capita (current US$),2019,1655.078839,Total,,USD,,,,Total
+Kuwait,KW,KWT,414,GDP per capita (current US$),2019,32000.44847,Total,,USD,,,,Total
+Kyrgyzstan,KG,KGZ,417,GDP per capita (current US$),2019,1309.53496,Total,,USD,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,GDP per capita (current US$),2019,2534.89828,Total,,USD,,,,Total
+Latvia,LV,LVA,428,GDP per capita (current US$),2019,17819.27138,Total,,USD,,,,Total
+Lebanon,LB,LBN,422,GDP per capita (current US$),2019,7583.694722,Total,,USD,,,,Total
+Lesotho,LS,LSO,426,GDP per capita (current US$),2019,1118.131284,Total,,USD,,,,Total
+Liberia,LR,LBR,430,GDP per capita (current US$),2019,621.8929536,Total,,USD,,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,GDP per capita (current US$),2019,7685.949267,Total,,USD,,,,Total
+Libya,LY,LBY,434,GDP per capita (current US$),2019,7685.949267,Total,,USD,,,,Total
+Liechtenstein,LI,LIE,438,GDP per capita (current US$),2018,181402.83,Total,,USD,,,,Total
+Lithuania,LT,LTU,440,GDP per capita (current US$),2019,19550.72778,Total,,USD,,,,Total
+Luxembourg,LU,LUX,442,GDP per capita (current US$),2019,114685.1684,Total,,USD,,,,Total
+Madagascar,MG,MDG,450,GDP per capita (current US$),2019,523.3590645,Total,,USD,,,,Total
+Malawi,MW,MWI,454,GDP per capita (current US$),2019,411.5523404,Total,,USD,,,,Total
+Malaysia,MY,MYS,458,GDP per capita (current US$),2019,11414.20698,Total,,USD,,,,Total
+Maldives,MV,MDV,462,GDP per capita (current US$),2019,10626.5134,Total,,USD,,,,Total
+Mali,ML,MLI,466,GDP per capita (current US$),2019,879.0080104,Total,,USD,,,,Total
+Malta,MT,MLT,470,GDP per capita (current US$),2019,29737.24598,Total,,USD,,,,Total
+Marshall Islands,MH,MHL,584,GDP per capita (current US$),2018,3788.163594,Total,,USD,,,,Total
+Mauritania,MR,MRT,478,GDP per capita (current US$),2019,1679.444873,Total,,USD,,,,Total
+Mauritius,MU,MUS,480,GDP per capita (current US$),2019,11099.24028,Total,,USD,,,,Total
+Mexico,MX,MEX,484,GDP per capita (current US$),2019,9946.033829,Total,,USD,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,GDP per capita (current US$),2018,3568.291016,Total,,USD,,,,Total
+Monaco,MC,MCO,492,GDP per capita (current US$),2018,185829.018,Total,,USD,,,,Total
+Mongolia,MN,MNG,496,GDP per capita (current US$),2019,4339.843279,Total,,USD,,,,Total
+Montenegro,ME,MNE,499,GDP per capita (current US$),2019,8910.495934,Total,,USD,,,,Total
+Morocco,MA,MAR,504,GDP per capita (current US$),2019,3204.095003,Total,,USD,,,,Total
+Mozambique,MZ,MOZ,508,GDP per capita (current US$),2019,503.5707727,Total,,USD,,,,Total
+Myanmar,MM,MMR,104,GDP per capita (current US$),2019,1407.813143,Total,,USD,,,,Total
+Burma,MM,MMR,104,GDP per capita (current US$),2019,1407.813143,Total,,USD,,,,Total
+Namibia,,NAM,516,GDP per capita (current US$),2019,4957.458222,Total,,USD,,,,Total
+Nauru,NR,NRU,520,GDP per capita (current US$),2019,9396.981967,Total,,USD,,,,Total
+Nepal,NP,NPL,524,GDP per capita (current US$),2019,1071.050761,Total,,USD,,,,Total
+Netherlands,NL,NLD,528,GDP per capita (current US$),2019,52295.03905,Total,,USD,,,,Total
+New Caledonia,NC,NCL,540,GDP per capita (current US$),2000,12579.59511,Total,,USD,,,,Total
+New Zealand,NZ,NZL,554,GDP per capita (current US$),2019,41557.80241,Total,,USD,,,,Total
+Nicaragua,NI,NIC,558,GDP per capita (current US$),2019,1912.903745,Total,,USD,,,,Total
+Niger,NE,NER,562,GDP per capita (current US$),2019,553.8950504,Total,,USD,,,,Total
+Nigeria,NG,NGA,566,GDP per capita (current US$),2019,2229.858696,Total,,USD,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,GDP per capita (current US$),2019,6022.216179,Total,,USD,,,,Total
+Northern Mariana Islands,MP,MNP,580,GDP per capita (current US$),2018,23258.67586,Total,,USD,,,,Total
+Norway,NO,NOR,578,GDP per capita (current US$),2019,75419.63487,Total,,USD,,,,Total
+Oman,OM,OMN,512,GDP per capita (current US$),2019,15343.062,Total,,USD,,,,Total
+Pakistan,PK,PAK,586,GDP per capita (current US$),2019,1284.702041,Total,,USD,,,,Total
+Palau,PW,PLW,585,GDP per capita (current US$),2019,14901.98353,Total,,USD,,,,Total
+Panama,PA,PAN,591,GDP per capita (current US$),2019,15731.01603,Total,,USD,,,,Total
+Papua New Guinea,PG,PNG,598,GDP per capita (current US$),2019,2829.170309,Total,,USD,,,,Total
+Paraguay,PY,PRY,600,GDP per capita (current US$),2019,5414.799138,Total,,USD,,,,Total
+Peru,PE,PER,604,GDP per capita (current US$),2019,6977.695784,Total,,USD,,,,Total
+Philippines,PH,PHL,608,GDP per capita (current US$),2019,3485.084218,Total,,USD,,,,Total
+Poland,PL,POL,616,GDP per capita (current US$),2019,15694.73863,Total,,USD,,,,Total
+Portugal,PT,PRT,620,GDP per capita (current US$),2019,23213.9782,Total,,USD,,,,Total
+Puerto Rico,PR,PRI,630,GDP per capita (current US$),2019,32873.71927,Total,,USD,,,,Total
+Qatar,QA,QAT,634,GDP per capita (current US$),2019,62088.06183,Total,,USD,,,,Total
+"Korea, Republic of",KR,KOR,410,GDP per capita (current US$),2019,31846.21823,Total,,USD,,,,Total
+South Korea,KR,KOR,410,GDP per capita (current US$),2019,31846.21823,Total,,USD,,,,Total
+"Moldova, Republic of",MD,MDA,498,GDP per capita (current US$),2019,4494.023797,Total,,USD,,,,Total
+Romania,RO,ROU,642,GDP per capita (current US$),2019,12913.07396,Total,,USD,,,,Total
+Russian Federation,RU,RUS,643,GDP per capita (current US$),2019,11584.99538,Total,,USD,,,,Total
+Russia,RU,RUS,643,GDP per capita (current US$),2019,11584.99538,Total,,USD,,,,Total
+Rwanda,RW,RWA,646,GDP per capita (current US$),2019,820.0252417,Total,,USD,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,GDP per capita (current US$),2019,19934.97453,Total,,USD,,,,Total
+Saint Lucia,LC,LCA,662,GDP per capita (current US$),2019,11611.41545,Total,,USD,,,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,GDP per capita (current US$),2019,7457.509504,Total,,USD,,,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,GDP per capita (current US$),2019,7457.509504,Total,,USD,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,GDP per capita (current US$),2019,7457.509504,Total,,USD,,,,Total
+Samoa,WS,WSM,882,GDP per capita (current US$),2019,4324.014018,Total,,USD,,,,Total
+San Marino,SM,SMR,674,GDP per capita (current US$),2018,48995.142,Total,,USD,,,,Total
+Sao Tome and Principe,ST,STP,678,GDP per capita (current US$),2019,1946.643614,Total,,USD,,,,Total
+Saudi Arabia,SA,SAU,682,GDP per capita (current US$),2019,23139.79866,Total,,USD,,,,Total
+Senegal,SN,SEN,686,GDP per capita (current US$),2019,1446.830965,Total,,USD,,,,Total
+Serbia,RS,SRB,688,GDP per capita (current US$),2019,7411.558649,Total,,USD,,,,Total
+Seychelles,SC,SYC,690,GDP per capita (current US$),2019,17448.27029,Total,,USD,,,,Total
+Sierra Leone,SL,SLE,694,GDP per capita (current US$),2019,527.5336344,Total,,USD,,,,Total
+Singapore,SG,SGP,702,GDP per capita (current US$),2019,65233.28244,Total,,USD,,,,Total
+Slovakia,SK,SVK,703,GDP per capita (current US$),2019,19266.0141,Total,,USD,,,,Total
+Slovenia,SI,SVN,705,GDP per capita (current US$),2019,25940.72803,Total,,USD,,,,Total
+Solomon Islands,SB,SLB,90,GDP per capita (current US$),2019,2373.63247,Total,,USD,,,,Total
+Somalia,SO,SOM,706,GDP per capita (current US$),1990,126.9249205,Total,,USD,,,,Total
+South Africa,ZA,ZAF,710,GDP per capita (current US$),2019,6001.401121,Total,,USD,,,,Total
+South Sudan,SS,SSD,728,GDP per capita (current US$),2015,1119.651333,Total,,USD,,,,Total
+Spain,ES,ESP,724,GDP per capita (current US$),2019,29564.7449,Total,,USD,,,,Total
+Sri Lanka,LK,LKA,144,GDP per capita (current US$),2019,3853.083693,Total,,USD,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,GDP per capita (current US$),2018,3562.330943,Total,,USD,,,,Total
+Sudan,SD,SDN,736,GDP per capita (current US$),2019,441.5056034,Total,,USD,,,,Total
+Suriname,SR,SUR,740,GDP per capita (current US$),2019,6359.833614,Total,,USD,,,,Total
+Sweden,SE,SWE,752,GDP per capita (current US$),2019,51647.99156,Total,,USD,,,,Total
+Switzerland,CH,CHE,756,GDP per capita (current US$),2019,81989.44351,Total,,USD,,,,Total
+Syrian Arab Republic,SY,SYR,760,GDP per capita (current US$),2000,1177.629268,Total,,USD,,,,Total
+Tajikistan,TJ,TJK,762,GDP per capita (current US$),2019,870.7875893,Total,,USD,,,,Total
+Thailand,TH,THA,764,GDP per capita (current US$),2019,7806.742211,Total,,USD,,,,Total
+Timor-Leste,TL,TLS,626,GDP per capita (current US$),2019,1560.509822,Total,,USD,,,,Total
+Togo,TG,TGO,768,GDP per capita (current US$),2019,679.2902491,Total,,USD,,,,Total
+Tonga,TO,TON,776,GDP per capita (current US$),2019,4903.152903,Total,,USD,,,,Total
+Trinidad and Tobago,TT,TTO,780,GDP per capita (current US$),2019,17397.98176,Total,,USD,,,,Total
+Tunisia,TN,TUN,788,GDP per capita (current US$),2019,3317.453593,Total,,USD,,,,Total
+Turkey,TR,TUR,792,GDP per capita (current US$),2019,9126.561346,Total,,USD,,,,Total
+Turkmenistan,TM,TKM,795,GDP per capita (current US$),2018,6966.635411,Total,,USD,,,,Total
+Turks and Caicos Islands,TC,TCA,796,GDP per capita (current US$),2019,31353.32932,Total,,USD,,,,Total
+Tuvalu,TV,TUV,798,GDP per capita (current US$),2019,4059.029996,Total,,USD,,,,Total
+Uganda,UG,UGA,800,GDP per capita (current US$),2019,794.3410779,Total,,USD,,,,Total
+Ukraine,UA,UKR,804,GDP per capita (current US$),2019,3659.031312,Total,,USD,,,,Total
+United Arab Emirates,AE,ARE,784,GDP per capita (current US$),2019,43103.32306,Total,,USD,,,,Total
+United Kingdom,GB,GBR,826,GDP per capita (current US$),2019,42328.90026,Total,,USD,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,GDP per capita (current US$),2019,1122.12181,Total,,USD,,,,Total
+United States,US,USA,840,GDP per capita (current US$),2019,65297.51751,Total,,USD,,,,Total
+Uruguay,UY,URY,858,GDP per capita (current US$),2019,16190.12696,Total,,USD,,,,Total
+Uzbekistan,UZ,UZB,860,GDP per capita (current US$),2019,1724.856544,Total,,USD,,,,Total
+Vanuatu,VU,VUT,548,GDP per capita (current US$),2019,3115.35862,Total,,USD,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,GDP per capita (current US$),2014,16054.49051,Total,,USD,,,,Total
+Venezuela,VE,VEN,862,GDP per capita (current US$),2014,16054.49051,Total,,USD,,,,Total
+Viet Nam,VN,VNM,704,GDP per capita (current US$),2019,2715.276036,Total,,USD,,,,Total
+Vietnam,VN,VNM,704,GDP per capita (current US$),2019,2715.276036,Total,,USD,,,,Total
+"Virgin Islands, U.S.",VI,VIR,850,GDP per capita (current US$),2017,35933.66952,Total,,USD,,,,Total
+Yemen,YE,YEM,887,GDP per capita (current US$),2019,774.3344898,Total,,USD,,,,Total
+Zambia,ZM,ZMB,894,GDP per capita (current US$),2019,1305.063254,Total,,USD,,,,Total
+Zimbabwe,ZW,ZWE,716,GDP per capita (current US$),2019,1463.98591,Total,,USD,,,,Total

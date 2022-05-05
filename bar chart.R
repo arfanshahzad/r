@@ -1,0 +1,11 @@
+ggplot(unicef_indicator_1) + geom_bar(aes(x = reorder(country, obs_value), y = obs_value, fill = obs_value),
+                    stat="identity", show.legend = FALSE) +
+  ggtitle("Largest economies") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(axis.text=element_text(size=2),
+        axis.title=element_text(size=2),
+        plot.title = element_text(size=2)) +
+  xlab("") + ylab("obs_vale)") +
+  coord_flip() +
+  scale_fill_gradient(low="blue", high="red")
+ggsave(p, filename = "bar_ggplot11.pdf", width = 9, height = 9)

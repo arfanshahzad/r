@@ -1,0 +1,17 @@
+library(readr)
+unicef_indicator_1 <- read_csv("C:/Users/Bilal Traders/Desktop/R/scarter plot/unicef_indicator_1.csv")
+View(unicef_indicator_1)
+plot(unicef_indicator_1$numeric_code, unicef_indicator_1$obs_value, main = "scatterplot and regreesion line")
+abline(lm(numeric_code ~ obs_value, data = unicef_indicator_1), col = "red")
+library(readxl)
+data_1_ <- read_excel("D:/Tasks/r6/data (1).xlsx", 
+                      sheet = "Data")
+View(data_1_)
+View(data_1_)
+View(data_1_$firms)
+View(data_1_$Salesvalue)
+View(data_1_$annualpay)
+View(data_1_$empl)
+View(data_1_$`1000prod`)
+plot(data_1_$firms,data_1_$Salesvalue,data_1_$annualpay, data_1_$empl, data_1_$`1000prod`)
+     
